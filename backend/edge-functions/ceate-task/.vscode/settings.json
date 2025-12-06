@@ -1,0 +1,6 @@
+{
+  "compilerOptions": {
+    "lib": ["deno.ns", "deno.unstable","deno.enable","deno.lint"]
+  },
+  "importMap": "./import_map.json"
+}
